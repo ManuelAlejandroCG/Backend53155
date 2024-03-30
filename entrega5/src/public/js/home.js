@@ -1,1 +1,0 @@
-alert("Bienvenido a la entrega de Handlebars")
